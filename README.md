@@ -27,9 +27,9 @@ To configure the application, create a .env file in the project root directory a
 
 
 
-Contributing
+**Contributing**
 We welcome contributions from the community! If you'd like to contribute to the project, please read our Contributing Guidelines for more information.
 
-Acknowledgements
-We would like to thank the creators of the Aviation API for providing valuable aviation data for our project.
+**Acknowledgements**
+:We would like to thank the creators of the Aviation API for providing valuable aviation data for our project.
 
